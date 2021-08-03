@@ -8,7 +8,7 @@ import java.util.List;
 /**
  * @author tcp
  * @date 2021/7/30 11:59
- * @description 多个集合通过foreach
+ * @description 多个集合通过foreach  d
  **/
 public class ForEachDemo {
 
